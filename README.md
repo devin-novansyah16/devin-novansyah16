@@ -13,7 +13,7 @@
 
 ### `> Novansyah, Devin _`
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=00E5C8&center=true&width=480&lines=Data+Scientist+%2F+BI+Engineer;Machine+Learning+%26+AI+Enthusiast;Informatics+Engineering+%40+UMB;Turning+raw+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=00E5C8&center=true&width=480&lines=Data+Scientist+%2F+BI+Engineer;Machine+Learning+%26+AI+Enthusiast;Informatics+Engineering+%40+UMB;Turning+raw+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" /> -->
 
 [![Portfolio](https://img.shields.io/badge/◈_Portfolio-0d1117?style=for-the-badge&logoColor=00E5C8&color=0d1117&labelColor=0d1117)](https://devin-novansyah16.github.io)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/devin-novansyah)
