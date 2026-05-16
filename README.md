@@ -163,8 +163,7 @@ class Devin:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00e5c8/devin-novansyah16" width="100%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devin-novansyah16&hide_border=true&background=0d1117&stroke=1a2332&ring=00E5C8&fire=00E5C8&currStreakLabel=00E5C8&sideLabels=8892a0&dates=4a5568&currStreakNum=e8edf5&sideNums=e8edf5" height="155"/>
 </div>
 ---
 
