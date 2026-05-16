@@ -29,18 +29,18 @@
 class Devin:
 
     name       = "Devin Novansyah"
-    role       = "Business Intelligence Engineer"
-    company    = "PT Lippo General Insurance Tbk"
-    university = "Universitas Mercu Buana — Informatics Engineering"
+    currently = "Informatics Engineering Student"
 
     focus = [
         "Data Science",
         "Machine Learning",
-        "Natural Language Processing",
-        "Business Intelligence & Analytics",
+        "Artificial Intelligence",
+        "Business Intelligence".
+        "Data Analytsis",
     ]
 
-    currently_learning = ["LLM fine-tuning", "MLOps", "dbt"]
+
+    fun_fact = "I believe every dataset has a story waiting to be told 📊"
 
     def hello(self):
         return "Let's turn messy data into something meaningful 🚀"
