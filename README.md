@@ -159,13 +159,13 @@ class Devin:
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devin-novansyah16&theme=transparent" height="155"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devin-novansyah16&theme=transparent" height="155"/>
+<img src="https://ghchart.rshah.org/00e5c8/devin-novansyah16" width="100%"/>
 
 </div>
-
 ---
 
 <div align="center">
