@@ -142,10 +142,6 @@ class Devin:
 </td>
 <td width="50%">
 
-**🔭 More coming soon...**
-> Currently working on new projects around LLM applications and MLOps pipelines.
->
-> `Stay tuned 👀`
 
 </td>
 </tr>
@@ -153,15 +149,6 @@ class Devin:
 
 ---
 
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devin-novansyah16&theme=transparent" height="155"/>
-</div>
----
 
 <div align="center">
 
