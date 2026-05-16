@@ -50,7 +50,7 @@ class Devin:
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -76,79 +76,10 @@ class Devin:
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
-![Looker](https://img.shields.io/badge/Looker_Studio-0d1117?style=flat-square&logo=looker&logoColor=4285F4)
 
 </div>
 
 ---
-
-## 🗂️ Selected Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🚦 Traffic Sign Recognition**
-> CNN model achieving **95%+ accuracy** on traffic sign classification. Deployed across multiple platforms using TensorFlow.js and TensorFlow Lite.
->
-> `Python` `TensorFlow` `CNN` `TF Lite`
->
-> [→ View Repository](https://github.com/devin-novansyah16/Traffic-Sign-Recognition-System-A-CNN-Approach-for-Multi-Platform-Deployment)
-
-</td>
-<td width="50%">
-
-**💬 Gojek Sentiment Analysis**
-> End-to-end NLP pipeline using Deep Learning to classify user sentiment from self-scraped Gojek app reviews.
->
-> `Python` `NLP` `Deep Learning` `Web Scraping`
->
-> [→ View Repository](https://github.com/devin-novansyah16/gojek-sentiment-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏦 Bank Transaction ML**
-> Machine Learning model to detect anomalies and analyze patterns in banking transaction data.
->
-> `Python` `Scikit-learn` `Jupyter` `EDA`
->
-> [→ View Repository](https://github.com/devin-novansyah16/bank-transaction-ml-analysis)
-
-</td>
-<td width="50%">
-
-**📊 E-Commerce Dashboard**
-> Interactive dashboard for real-time e-commerce business performance monitoring and KPI tracking.
->
-> `Python` `Pandas` `Visualization` `Dashboard`
->
-> [→ View Repository](https://github.com/devin-novansyah16/e-commerce-dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🛒 Ecommerce Promotion Analysis**
-> Analyzed promotional campaign effectiveness using Python to uncover patterns and improve conversion rates.
->
-> `Python` `Pandas` `Matplotlib` `EDA`
->
-> [→ View Repository](https://github.com/devin-novansyah16/ecommerce-promotion-analysis)
-
-</td>
-<td width="50%">
-
-
-</td>
-</tr>
-</table>
-
----
-
 
 <div align="center">
 
