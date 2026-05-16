@@ -157,8 +157,13 @@ class Devin:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devin-novansyah16&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5C8&icon_color=00E5C8&text_color=8892a0&ring_color=00E5C8" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devin-novansyah16&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5C8&text_color=8892a0" height="155"/>
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devin-novansyah16&theme=transparent" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devin-novansyah16&theme=transparent" height="155"/>
+
 </div>
 
 ---
