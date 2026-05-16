@@ -153,17 +153,13 @@ class Devin:
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-## 📈 GitHub Activity
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devin-novansyah16&hide_border=true&background=0d1117&stroke=1a2332&ring=00E5C8&fire=00E5C8&currStreakLabel=00E5C8&sideLabels=8892a0&dates=4a5568&currStreakNum=e8edf5&sideNums=e8edf5" height="155"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devin-novansyah16&theme=transparent" height="155"/>
 </div>
 ---
 
